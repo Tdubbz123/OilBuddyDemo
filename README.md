@@ -1,5 +1,7 @@
-this demo curently allows users to search for one key word to pull up mock procedures
+# Oil Buddy (Demo)
 
-demo keywords are Hydrovac, pump, boom and gripper
+This demo currently allows users to search for one keyword to pull up mock procedures.
 
-It also allows the user to  create new procedures to showcase how workers can create temporary procedures when  needed for specialized tasks which are stored in a local chache.
+**Demo keywords include:** `Hydrovac`, `pump`, `boom`, and `gripper`.
+
+It also allows users to create new procedures to showcase how workers can create temporary procedures for specialized tasks, which are stored in local memory.
